@@ -4,6 +4,51 @@ body{
   font-family: 'Lato', sans-serif;
 }
 
+#pencil {
+  border: 1px solid #6c757d;
+  padding: 18px;
+  text-align: center;
+  border-radius: 50%;
+}
+
+#lightbulb {
+  padding: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border: 1px solid #6c757d;
+  text-align: center;
+  border-radius: 50%;
+}
+
+#heart {
+  padding: 16px;
+  border: 1px solid #6c757d;
+  text-align: center;
+  border-radius: 50%;
+}
+
+#mobile {
+  padding: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border: 1px solid #6c757d;
+  text-align: center;
+  border-radius: 50%;
+}
+
+#comment {
+  padding: 16px;
+  border: 1px solid #6c757d;
+  text-align: center;
+  border-radius: 50%;
+}
+
+#star{
+  padding: 16px;
+  border: 1px solid #6c757d;
+  text-align: center;
+  border-radius: 50%;
+}
 
 #slider{
   background-color: #f06c64;
