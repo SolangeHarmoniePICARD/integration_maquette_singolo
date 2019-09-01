@@ -107,3 +107,10 @@ body{
 #validationTooltip01::placeholder, #validationTooltip02::placeholder, #validationTooltip03::placeholder, #subject::placeholder {
   color: rgba(255, 255, 255, 0.5); !important;
 }
+
+/* FOOTER */
+.social-networks>i:hover{
+  background-color: #6c757d;
+  color: #f2f2f2;
+  cursor: pointer;
+}
