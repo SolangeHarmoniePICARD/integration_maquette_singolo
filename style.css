@@ -85,3 +85,20 @@ body{
   text-align: center;
   border-radius: 50%;
 }
+
+/* About */
+
+.facebook-icon{
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+.linkedin-icon{
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+.card-footer>i:hover{
+  background-color: #6c757d;
+  color: #f2f2f2;
+  cursor: pointer;
+}
